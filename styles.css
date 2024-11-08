@@ -1,0 +1,101 @@
+/** @format */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', serif;
+}
+
+.headline {
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #e1624f;
+	margin-bottom: 8px;
+}
+
+#container {
+	margin: 88px auto 65px;
+	width: 1120px;
+}
+
+h1 {
+	font-size: 36px;
+	color: #1b1b1b;
+	margin-bottom: 40px;
+}
+
+#img {
+	margin-bottom: 24px;
+}
+
+#info-img {
+	font-size: 16px;
+	font-style: italic;
+	text-align: center;
+	margin-bottom: 44px;
+	color: #333333;
+}
+
+#internal-container {
+	padding-top: 64px;
+}
+
+h2 {
+	font-size: 32px;
+	color: #1b1b1b;
+	margin-bottom: 8px;
+}
+
+.main-text {
+	font-size: 16;
+	color: #333333;
+}
+
+#destiny {
+	margin-bottom: 64px;
+}
+
+#imgs {
+	margin-bottom: 20px;
+}
+
+li {
+	margin-left: 24px;
+}
+
+.ol-li {
+	font-weight: bold;
+	color: #1b1b1b;
+	font-size: 28px;
+}
+
+ul {
+	margin-bottom: 48px;
+}
+
+.description-place {
+	margin-bottom: 32px;
+}
+
+.well-to {
+	font-weight: bold;
+}
+
+.li-well-to {
+	color: #0c51a7;
+	font-weight: bold;
+	font-size: 16px;
+	list-style: disc;
+}
+
+#last-information {
+	margin-bottom: 40px;
+}
+
+footer {
+	text-align: center;
+	margin-bottom: 48px;
+	color: #333333;
+	padding: 0;
+}
